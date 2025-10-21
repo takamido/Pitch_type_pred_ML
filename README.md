@@ -7,7 +7,8 @@ pitch_type_pred/
 ├── dataset &nbsp;&nbsp;&nbsp; # The datasets of the eight baseball pitchers(sub01-08)  
 ├── program &nbsp;&nbsp;&nbsp; # Program codes for the proposed analysis  
 ├── results &nbsp;&nbsp;&nbsp; # The results of the proposed analysis  
-└── README.md &nbsp;&nbsp;&nbsp; # This file  
+pitching_motion_video &nbsp;&nbsp;&nbsp; # The video of each pitcher's motion (red: fastball, blue: breaking-ball)
+README.md &nbsp;&nbsp;&nbsp; # This file  
 
 # Installation
 This project is designed to be easily executed in Google Colab.
