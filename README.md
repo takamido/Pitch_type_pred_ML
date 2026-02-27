@@ -28,4 +28,5 @@ Once the folder is mounted, navigate to the project path and execute the main no
 ・Google Colab (Python environment)  
 
 # Citation
-・Coming soon
+・ Takamido R, Suzuki C, Nakamoto H, (2026). A data-driven analysis of spatiotemporal
+cues and experience accumulation effects for pitch type prediction. PLoS One 21(2):e0336554. https://doi.org/10.1371/journal.pone.0336554
